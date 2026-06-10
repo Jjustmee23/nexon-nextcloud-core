@@ -1,6 +1,6 @@
 # Nexon Nextcloud Core (AGPL)
 
-Public repository for all Nextcloud Server core modifications used by the Nexon / Mida Sovereign Cloud platform.
+Public repository for all Nextcloud Server core modifications used by the Nextsolution Cloud (Nexon Solutions) platform.
 
 **This repository must remain public at all times** to comply with the GNU Affero General Public License v3.0 (AGPL-3.0).
 

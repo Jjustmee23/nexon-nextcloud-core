@@ -21,4 +21,4 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 ## [0.1.0] - 2026-06-10
 
 ### Added
-- Repository bootstrap for Nexon / Mida Sovereign Cloud pilot
+- Repository bootstrap for Nextsolution Cloud (Nexon Solutions) pilot
