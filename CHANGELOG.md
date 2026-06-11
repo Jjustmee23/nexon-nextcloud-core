@@ -15,9 +15,10 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 ### Changed
 - `custom.config.php`: `enabledPreviewProviders` for HEIC/TIFF/XBitmap Mail attachment previews (Viewer app)
 - `custom.config.php`: `trusted_proxies` uses Docker CIDR ranges; `forwarded_for_headers`, `serverid`
+- `custom.config.php`: disable upstream signup/knowledgebase promos (`simpleSignUpLink.shown`, `knowledgebaseenabled`, `has_internet_connection`)
 
 ### Removed
-- (none yet)
+- (none — UI de-branding via theming `custom.css` in private platform repo, not core source)
 
 ## [0.1.0] - 2026-06-10
 
