@@ -13,7 +13,8 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 - AGPL source offer documentation
 
 ### Changed
-- (none yet)
+- `custom.config.php`: `enabledPreviewProviders` for HEIC/TIFF/XBitmap Mail attachment previews (Viewer app)
+- `custom.config.php`: `trusted_proxies` uses Docker CIDR ranges; `forwarded_for_headers`, `serverid`
 
 ### Removed
 - (none yet)
