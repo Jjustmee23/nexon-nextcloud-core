@@ -1,0 +1,19 @@
+<?php
+/**
+ * SPDX-FileCopyrightText: 2026 Nexon Solutions
+ * SPDX-License-Identifier: AGPL-3.0-or-later
+ */
+declare(strict_types=1);
+
+return [
+	'id' => 'nexon_platform',
+	'name' => 'Nextsolution Platform',
+	'summary' => 'Sync user provisioning and passwords with Nextsolution Identity and mail',
+	'description' => 'Hooks user create and password change events to the platform provisioning API.',
+	'version' => '1.0.0',
+	'licence' => 'AGPL-3.0-or-later',
+	'author' => 'Nexon Solutions',
+	'namespace' => 'NexonPlatform',
+	'default_enable' => true,
+	'types' => ['authentication'],
+];

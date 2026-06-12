@@ -7,6 +7,7 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 ## [Unreleased]
 
 ### Added
+- `nexon_platform` custom app — event-driven provisioning + password sync to platform API (AGPL)
 - Initial public AGPL repository structure
 - `custom.config.php` overlay: Redis locking, trusted proxy, Iraq locale defaults
 - `Dockerfile` extending official `nextcloud:stable-apache` image
